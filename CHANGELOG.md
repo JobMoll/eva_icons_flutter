@@ -1,3 +1,7 @@
+## 3.0.0
+
+* Added support for null safety
+
 ## 2.0.1
 
 * Library update, better code quality and docs.
